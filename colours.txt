@@ -1,6 +1,27 @@
-master:         before mergin again: apple
+<<<<<<< HEAD
+master:         
+=======
+master:  
+>>>>>>> branchcolours
 blue
 orange
 
+
+
+branch:
+green 
+red
+
+
+
+
+
+
+
 after checkingout to master again:
 yellow
+
+
+
+
+before mergin again: apple
