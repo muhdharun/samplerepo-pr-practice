@@ -2,14 +2,12 @@ master:
 blue
 orange
 
-<<<<<<< HEAD
+
 
 branch:
 green 
 red
-=======
 
->>>>>>> master
 
 
 
