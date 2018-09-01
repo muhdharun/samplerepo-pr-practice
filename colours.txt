@@ -2,7 +2,19 @@ master:
 blue
 orange
 
+<<<<<<< HEAD
 
 branch:
 green 
 red
+=======
+
+>>>>>>> master
+
+
+
+
+
+
+after checkingout to master again:
+yellow
