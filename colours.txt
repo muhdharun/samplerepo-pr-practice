@@ -1,3 +1,8 @@
-master:
+master:  
 blue
 orange
+
+
+branch:
+green 
+red
